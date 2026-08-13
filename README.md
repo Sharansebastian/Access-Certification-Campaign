@@ -2,6 +2,7 @@
 A small, realistic "who has access to what" dataset, followed by a completed access review where you personally play the role of reviewer, plus a written SoD conflict report — exactly like what a junior IGA analyst produces in a real job. Basically, it is an Access review campaign, usually done in a sailpoint or other IGA platforms. But I'm planning on zero-cost projects, and this is what in an organisation does every time for an Access review campaign.
 
 Access review data sheet- is the data's i used for this project, which you can also use.
+
 Access review - is the answers, basically what i did in this entire project.
 
 # Step 1 — Open a blank spreadsheet:
